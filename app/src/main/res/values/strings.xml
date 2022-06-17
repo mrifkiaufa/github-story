@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Github Story App</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_story">Add new story</string>
+    <string name="upload_desc_hint">Write photo description…</string>
+    <string name="img_upload_desc">Image for add to story</string>
+    <string name="name">Name</string>
+    <string name="story_description">Story description</string>
+    <string name="back_button_desc">Back button</string>
+    <string name="story_image">Story image</string>
+    <string name="switch_camera_button">Switch camera button</string>
+    <string name="capture_photo_button">Capture photo button</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="enter_name">Enter your name…</string>
+    <string name="have_account">Have an account?</string>
+    <string name="go_to_login">Go to Login</string>
+    <string name="go_to_register">Go to Register</string>
+    <string name="dont_have_account">Do not have account?</string>
+    <string name="dont_permission">Do not get permission.</string>
+    <string name="register">register</string>
+    <string name="login_success">Login success</string>
+    <string name="register_success">Register success</string>
+    <string name="logout_success">Logout success</string>
+    <string name="fail_take_picture">Failed take picture</string>
+    <string name="fail_show_camera">Failed show camera</string>
+    <string name="please_input_image">Please input image first.</string>
+    <string name="login_page">Login Page</string>
+    <string name="register_page">Register Page</string>
+    <string name="upload_success">Success upload image</string>
+    <string name="upload_with_location_success">Success upload image with your location</string>
+    <string name="upload_failed">Failed upload image</string>
+    <string name="retry">Try again</string>
+    <string name="map_layout">Map layout mode</string>
+    <string name="location_on">Location is on.</string>
+    <string name="location_permission">Please turn on your location first.</string>
+    <string name="cannot_access_location">Cannot access location.</string>
+    <string name="location_off">Location is off.</string>
+    <string name="description_empty">Please fill the description!</string>
+    <string name="title_activity_map" translatable="false">MapActivity</string>
+    <string name="location_warning">* Please make sure your location is active if you want to upload the story with your location data.</string>
+</resources>
